@@ -1,1 +1,1 @@
-This project uses Core Text to lay out text in columns in a `UIScrollView`.  After launching the app, click the `View` button to see the columnized layout.  Most of the interesting code is in coretext/ColumnView.m.
+This project uses Core Text to lay out text in columns in a UIScrollView.  After launching the app, click the View button to see the columnized layout.  Most of the interesting code is in coretext/ColumnView.m.
